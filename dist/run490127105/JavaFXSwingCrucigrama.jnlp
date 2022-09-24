@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXSwingCrucigrama.jnlp">
+  <information>
+    <title>JavaFXSwingCrucigrama</title>
+    <vendor>Abel Gallart Bonome</vendor>
+    <description>null</description>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXSwingCrucigrama.jar" size="6213937" download="eager" />
+    <jar href="lib\AbsoluteLayout.jar" size="10658" download="eager" />
+  </resources>
+  <application-desc main-class="javafxswingcrucigrama.JavaFXSwingCrucigrama"  name="JavaFXSwingCrucigrama" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
